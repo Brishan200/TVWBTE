@@ -1,4 +1,7 @@
 # TVWBTE
+
+[![DOI](https://zenodo.org/badge/1167398021.svg)](https://doi.org/10.5281/zenodo.18783337)
+
 Temperature variability of a western boundary temperate embayment - UTR analysis of 10 stations in Algoa Bay from 2008 to 2025
 
 
